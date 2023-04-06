@@ -5,3 +5,4 @@ vim
 pwd
 rm
 mv
+тбб
